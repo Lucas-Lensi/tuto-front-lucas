@@ -1,0 +1,18 @@
+.comment-section{
+    border: 1px solid grey;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top: 0px;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .comment {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid grey;
+  }
+  
+  .no-display{
+    display: none;
+  }
